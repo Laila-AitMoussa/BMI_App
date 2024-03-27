@@ -3,6 +3,8 @@
 ## Overview
 This BMI Calculator Flutter application provides a simple and efficient way to calculate Body Mass Index (BMI). BMI is a measure of body fat based on height and weight that applies to adult men and women. This application allows users to input their height and weight, and it calculates their BMI instantly, providing them with information on their weight status.
 
+<img src="BMI.gif" width="40" height="40" />
+
 ## Features
 - Calculate BMI instantly based on height and weight inputs.
 - Determine weight status (underweight, normal weight, overweight, or obese) based on calculated BMI.
