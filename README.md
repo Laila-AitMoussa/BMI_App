@@ -12,7 +12,7 @@ This BMI Calculator Flutter application provides a simple and efficient way to c
 ## Installation
 1. **Clone the Repository:** Clone this repository to your local machine using:
    ```
-   git clone [https://github.com/Laila-AitMoussa/BMI_App.git](https://github.com/Laila-AitMoussa/BMI_App.git)
+   git clone https://github.com/Laila-AitMoussa/BMI_App.git
    ```
    
 2. **Navigate to Project Directory:** Move into the project directory:
